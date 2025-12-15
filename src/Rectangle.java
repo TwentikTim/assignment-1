@@ -1,6 +1,6 @@
 public class Rectangle {
 
-    // 🔹 Fields (attributes)
+    
     private double width;
     private double height;
     private static int idGen = 0;
